@@ -10,5 +10,17 @@ words_list = [
     'development',
     'moderator',
     'discord',
-    'gaming'
+    'gaming',
+    'software',
+    'hardware',
+    'games',
+    'react',
+    'pygame',
+    'technology',
+    'it',
+    'streaming',
+    'computing',
+    'messenger',
+    'ai',
+    'tracker'
 ]

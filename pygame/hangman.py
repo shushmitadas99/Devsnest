@@ -20,7 +20,8 @@ def play(word):
     lives = 6
 
     # user prompt
-    print("Welcome! Let's play Hangman!")
+    print("\nWelcome! Let's play Hangman!")
+    print("You have 6 lives until the end")
     print(display_hangman(lives))  # current state of hangman
     print(word_completion)  # word
     print("\n")
