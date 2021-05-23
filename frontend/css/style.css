@@ -1,0 +1,28 @@
+* {
+  /*reset to remove pre-existing margin and padding*/
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  color: indigo;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  line-height: 1.5;
+}
+h1 {
+  color: white;
+}
+p {
+  font-size: 18px;
+}
+#stage {
+  background-image: url('../img/quino-al-5gfcMc_vawA-unsplash.jpg');
+  background-size: cover; /*whole pic displayed*/
+  background-position: center;
+  height: 100vh; /*css unit: viewport height*/
+  display: flex; /*makes it a flex container*/
+  flex-direction: column;
+  justify-content: center; /*centers content horizontally (pos:x-axis = 0)*/
+  align-items: center; /*centers items vertically (pos:y-axis = 0)*/
+  padding: 0 20px; /*0px top/bottom and 20px left/right*/
+}

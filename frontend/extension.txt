@@ -1,0 +1,5 @@
+Auto Rename
+Live Server
+Colorize
+CSS Peek
+Prettier - code formatter
